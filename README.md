@@ -15,3 +15,11 @@
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
 * Check [info.py](https://github.com/pykinsu/tele-filter-bot/blob/main/info.py
 ) for more optional variables
+
+
+## Deploy On Koyeb
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=tele-filter-bot&repository=itskissu%2FFilter&branch=main&instance_type=free&instances_min=0&autoscaling_sleep_idle_delay=300&env%5BADMINS%5D=&env%5BAPI_HASH%5D=&env%5BAPI_ID%5D=&env%5BBOT_TOKEN%5D=&env%5BDATABASE_URL%5D=&env%5BLOG_CHANNEL%5D=)
+
+## 🚀 Deploy on Render
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/itskissu/Filter)
