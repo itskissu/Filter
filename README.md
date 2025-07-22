@@ -19,9 +19,9 @@
 
 ## 🎯 Getting Started — Setup Guides
 
-- 📽️ [How to Create a MongoDB Database](https://youtu.be/1G1XwEOnxxo)
-- 📽️ [How to Create a Telegram Bot with BotFather](https://youtu.be/NrRzHdGJd6g)
-- 📽️ [Get Telegram API ID and Hash](https://youtu.be/VrT3TRFPRXA)
+- 📽️ [How to Create a MongoDB Database](https://youtube.com/shorts/pIHvoXkwmq4)
+- 📽️ [How to Create a Telegram Bot with BotFather](https://youtube.com/shorts/HhSIHIbFTF4)
+- 📽️ [Get Telegram API ID and Hash](https://youtube.com/shorts/DtaShUUlxrs)
 - 📽️ [Deploy Python Telegram Bot on Render](https://youtu.be/kYDTu1UYOzM)
 
 ---
