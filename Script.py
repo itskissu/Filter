@@ -13,13 +13,6 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 • Bᴏᴛ Sᴇʀᴠᴇʀ: Pʀɪᴠᴀᴛᴇ
  Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v1.7.1 [ Sᴛᴀʙʟᴇ ]</b>"""
 
-    SOURCE_TXT = """<b>
-<b>
-✭ ғᴏʀ ᴀɴʏ ǫᴜᴇʀʏ ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴛʜᴇ <a href="https://t.me/kissuhelp">𓆩•𝐊𝐢𝐬𝐬𝐮 💞•𓆪</a><br>
-✭ ʜᴇʀᴇ ɪs ᴘᴜʙʟɪᴄ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴀɴᴅ ɪɴsᴛʀᴜᴄᴛɪᴏɴs — ᴛᴀᴘ ʙᴇʟᴏᴡ ᴏʀ <a href="https://github.com/pykinsu/tele-filter-bot">ʜᴇʀᴇ</a> ᴛᴏ sᴇᴇ.
-</b>
-
-"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -294,6 +287,12 @@ To Get Sticker ID
 • /country [𝖼𝗈𝗎𝗇𝗍𝗋𝗒 𝗇𝖺𝗆𝖾] 
 𝖤𝗑𝖺𝗆𝗉𝗅𝖾 :- <code>/country India</code>"""
 
+        SOURCE_TXT = """<b>
+✭ ғᴏʀ ᴀɴʏ ǫᴜᴇʀʏ ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴛʜᴇ <a href="https://t.me/kissuhelp">𓆩•𝐊𝐢𝐬𝐬𝐮 💞•𓆪</a><br>
+✭ ʜᴇʀᴇ ɪs ᴘᴜʙʟɪᴄ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴀɴᴅ ɪɴsᴛʀᴜᴄᴛɪᴏɴs — ᴛᴀᴘ ʙᴇʟᴏᴡ ᴏʀ <a href="https://github.com/pykinsu/tele-filter-bot">ʜᴇʀᴇ</a> ᴛᴏ sᴇᴇ.
+</b>
+"""
+    
     RULE_TXT = """<b>
 ♨️ 𝗚𝗥𝗢𝗨𝗣 𝗥𝗨𝗟𝗘𝗦 ♨️</b><br><br>
 
