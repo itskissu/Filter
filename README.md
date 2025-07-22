@@ -15,4 +15,3 @@
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
 * Check [info.py](https://github.com/pykinsu/tele-filter-bot/blob/main/info.py
 ) for more optional variables
-InlineKeyboardButton('⟸ Bᴀᴄᴋ', callback_data='about')
