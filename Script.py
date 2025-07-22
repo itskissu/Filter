@@ -6,15 +6,16 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>• Mʏ Nᴀᴍᴇ: {}
+• Oᴡɴᴇʀ : <a href="https://t.me/kissuhelp">𓆩•𝐊𝐢𝐬𝐬𝐮 💞•𓆪</a>
 • Lɪʙʀᴀʀʏ: <a href='docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
 • Lᴀɴɢᴜᴀɢᴇ: <a href='www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
 • DᴀᴛᴀBᴀsᴇ: <a href='www.mongodb.com'>MᴏɴɢᴏDB</a>
 • Bᴏᴛ Sᴇʀᴠᴇʀ: Pʀɪᴠᴀᴛᴇ
- Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v2.7.1 [ Sᴛᴀʙʟᴇ ]</b>"""
+ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v1.7.1 [ Sᴛᴀʙʟᴇ ]</b>"""
 
     SOURCE_TXT = """<b>
 <b>
-✭ ғᴏʀ ᴀɴʏ ǫᴜᴇʀʏ ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ<br>
+✭ ғᴏʀ ᴀɴʏ ǫᴜᴇʀʏ ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴛʜᴇ <a href="https://t.me/kissuhelp">𓆩•𝐊𝐢𝐬𝐬𝐮 💞•𓆪</a><br>
 ✭ ʜᴇʀᴇ ɪs ᴘᴜʙʟɪᴄ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴀɴᴅ ɪɴsᴛʀᴜᴄᴛɪᴏɴs — ᴛᴀᴘ ʙᴇʟᴏᴡ ᴏʀ <a href="https://github.com/pykinsu/tele-filter-bot">ʜᴇʀᴇ</a> ᴛᴏ sᴇᴇ.
 </b>
 
@@ -248,8 +249,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 • /plink - <code>Jᴜsᴛ ʟɪᴋᴇ /link, ʙᴜᴛ ᴛʜᴇ ғɪʟᴇ ᴡɪʟʟ ʙᴇ sᴇɴᴅ ᴡɪᴛʜ ғᴏʀᴡᴀʀᴅ ʀᴇsᴛʀɪᴄᴛɪᴏɴ.</code>"""
 
     OWNER_INFO = """
-<b>
-⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟<br>
+<b> ⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟<br>
 ◈ ꜰᴜʟʟ ɴᴀᴍᴇ : <a href="https://t.me/kissuhelp">𓆩•𝐊𝐢𝐬𝐬𝐮 💞•𓆪</a><br>
 ◈ ʜᴇʀᴇ ɪs ᴘᴜʙʟɪᴄ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴀɴᴅ ɪɴsᴛʀᴜᴄᴛɪᴏɴs — ᴛᴀᴘ ʙᴇʟᴏᴡ ᴏʀ <a href="https://github.com/pykinsu/tele-filter-bot">ʜᴇʀᴇ</a> ᴛᴏ sᴇᴇ.
 </b>"""
