@@ -1296,8 +1296,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[      
             InlineKeyboardButton("Hᴇʟᴩ 💡", callback_data="help"),
             InlineKeyboardButton("Aʙᴏᴜᴛ 📰", callback_data="about")
-            ],[
-           InlineKeyboardButton('❗❗ Dɪꜱᴄʟᴀɪᴍᴇʀ ❗❗', callback_data="dicl_btn")
+        ]
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await client.edit_message_media(
@@ -1446,9 +1445,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "source":
         buttons = [[
-            InlineKeyboardButton('Sᴏᴜʀᴄᴇ Cᴏᴅᴇ', url='https://github.com/pykinsu/tele-filter-bot/'),
-            InlineKeyboardButton('⟸ Bᴀᴄᴋ', callback_data='about')
-        ]]
+           InlineKeyboardButton('⟸ Bᴀᴄᴋ', callback_data='about'),
+           InlineKeyboardButton('Sᴏᴜʀᴄᴇ Cᴏᴅᴇ', url='https://github.com/pykinsu/tele-filter-bot/')
+           ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await client.edit_message_media(
             query.message.chat.id, 
