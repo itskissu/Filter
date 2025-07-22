@@ -1288,22 +1288,17 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer(text=script.SINFO, show_alert=True)
 
     elif query.data == "start":
-        buttons = [
-    [
-        InlineKeyboardButton('• Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ •', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
-    ],
-    [
-        InlineKeyboardButton('↼ Eᴀʀɴ Mᴏɴᴇʏ', callback_data="shortlink_info"),
-        InlineKeyboardButton('Bᴏᴛ Cʜᴀɴɴᴇʟs ⇀', url="https://t.me/kissuxbots")
-    ],
-    [
-        InlineKeyboardButton('↼ Hᴇʟᴘ', callback_data='help'),
-        InlineKeyboardButton('Aʙᴏᴜᴛ ⇀', callback_data='about')
-    ],
-    [
-        InlineKeyboardButton('📌 Jᴏɪɴ Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟs', callback_data="chnl_info")
-    ]
-]
+        buttons = [[
+                    InlineKeyboardButton('➕ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+                ],[
+            InlineKeyboardButton("Sᴇᴀʀᴄʜ 🔎",url=REQ_GRP), 
+            InlineKeyboardButton("📌 Uᴘᴅᴀᴛᴇs", url="https://t.me/kissuxbots")
+            ],[      
+            InlineKeyboardButton("Hᴇʟᴩ 💡", callback_data="help"),
+            InlineKeyboardButton("Aʙᴏᴜᴛ 📰", callback_data="about")
+            ],[
+           InlineKeyboardButton('❗❗ Dɪꜱᴄʟᴀɪᴍᴇʀ ❗❗', callback_data="dicl_btn")
+                  ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await client.edit_message_media(
             query.message.chat.id, 
@@ -1691,7 +1686,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             )
     elif query.data == "chnl_info":
             btn = [[
-                    InlineKeyboardButton("↼ Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ Gʀᴏᴜᴘ ⇀", url="t.me/ur_movie_group")
+                    InlineKeyboardButton("↼ Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ Gʀᴏᴜᴘ ⇀", url=REQ_GRP)
                 ],[
                     InlineKeyboardButton("↼ ʙᴏᴛ ᴄʜᴀɴɴᴇʟ ⇀", url="t.me/kissuxbots")
                 ],[
